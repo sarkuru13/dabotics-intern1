@@ -1,0 +1,104 @@
+
+.navbar{
+    display: flex;
+}
+.logo{
+    margin-left: 20px;
+
+}
+.logo img{
+    width: 70px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+.navContent{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    gap: 25px;
+    color: #0000008C;
+    
+   
+}
+.navContent input{
+    border: hidden;
+}
+.hero1 {
+    background-image: url(hero1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 367px;
+    width: 1464px;
+}
+.hero1Content{
+    font-size: 48px;
+    line-height: 60px;
+    margin-left: 30px;
+  
+}
+.hero2Content{
+    font-size: 48px;
+    line-height: 60px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-family: fantasy;
+  
+}
+.hero3 img{
+    height: 580px;
+    width: 1312px;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+.hero4{
+    background-image: url(https://www.oppo.com/content/dam/oppo/in/mkt/events/reno10-warmup/draw/v2/draw-PC2.jpg);
+    background-size: cover;
+    height:580px;
+    width: 1312px;
+    margin-left: 60px;
+}
+.hero4content{
+    font-size: 48px;
+    line-height: 60px;
+    margin-left: 30px; 
+    color: aliceblue;
+    margin-left: 60px;
+}
+.hero4content2{
+    color: aliceblue;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.hero4content3{
+    color: rgb(130, 154, 155);
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.hero4content butt{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.footer{
+
+    background-color:#000000 ;
+    margin-top: 100px;
+    display: flex;
+    font-family: sans-serif;
+}
+
+.container ul h4{
+    color: #fffffff2;
+}
+.container li{
+    list-style: none;
+    color: #fffffff2;
+    font-size: 14px;
+
+}
+
+
+
